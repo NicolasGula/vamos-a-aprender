@@ -1,0 +1,545 @@
+@import url("https://fonts.googleapis.com/css2?family=Handlee&display=swap");
+.index {
+  background-image: url(https://image.freepik.com/free-vector/happy-kids-playing-cardboard-plane-with-sky-scenery-background_33070-4324.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  color: #000000;
+  font-family: "Handlee", cursive;
+  text-shadow: 3px 0 #ffffff;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #000000;
+  font-family: "Handlee", cursive;
+  text-shadow: 3px 0 #ffffff;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.btn {
+  outline: none;
+  border: 5px solid #000000;
+  font-size: 2rem;
+  font-family: "Handlee" cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #ffffff;
+  border-radius: 20px;
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+}
+
+.btn2 {
+  outline: none;
+  border: 5px solid #000000;
+  font-size: 1.5rem;
+  font-family: "Handlee" cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #ffffff;
+  border-radius: 20px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+.abeja {
+  background-image: url("../assets/img/animals/abeja.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.aguila {
+  background-image: url("../assets/img/animals/aguila.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.burro {
+  background-image: url("../assets/img/animals/burro.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.caballo {
+  background-image: url("../assets/img/animals/caballo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.cerdo {
+  background-image: url("../assets/img/animals/cerdo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.elefante {
+  background-image: url("../assets/img/animals/elefante.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.gallina {
+  background-image: url("../assets/img/animals/gallina.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.gallo {
+  background-image: url("../assets/img/animals/gallo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.gato {
+  background-image: url("../assets/img/animals/gato.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.leon {
+  background-image: url("../assets/img/animals/leon.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.lobo {
+  background-image: url("../assets/img/animals/lobo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.mono {
+  background-image: url("../assets/img/animals/mono.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.oveja {
+  background-image: url("../assets/img/animals/oveja.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.pato {
+  background-image: url("../assets/img/animals/Pato.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.perro {
+  background-image: url("../assets/img/animals/perro.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.pollito {
+  background-image: url("../assets/img/animals/pollito.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.vaca {
+  background-image: url("../assets/img/animals/Vaca.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.cero {
+  background-image: url("../assets/img/numbers/cero.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.uno {
+  background-image: url("../assets/img/numbers/uno.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.dos {
+  background-image: url("../assets/img/numbers/dos.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.tres {
+  background-image: url("../assets/img/numbers/tres.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.cuatro {
+  background-image: url("../assets/img/numbers/cuatro.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.cinco {
+  background-image: url("../assets/img/numbers/cinco.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.seis {
+  background-image: url("../assets/img/numbers/seis.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.siete {
+  background-image: url("../assets/img/numbers/siete.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.ocho {
+  background-image: url("../assets/img/numbers/ocho.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.nueve {
+  background-image: url("../assets/img/numbers/nueve.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.a {
+  background-image: url("../assets/img/letters/a.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.b {
+  background-image: url("../assets/img/letters/b.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.c {
+  background-image: url("../assets/img/letters/c.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.d {
+  background-image: url("../assets/img/letters/d.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.e {
+  background-image: url("../assets/img/letters/e.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.f {
+  background-image: url("../assets/img/letters/f.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.g {
+  background-image: url("../assets/img/letters/g.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.h {
+  background-image: url("../assets/img/letters/h.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.i {
+  background-image: url("../assets/img/letters/i.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.j {
+  background-image: url("../assets/img/letters/j.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.k {
+  background-image: url("../assets/img/letters/k.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.l {
+  background-image: url("../assets/img/letters/l.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.m {
+  background-image: url("../assets/img/letters/m.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.n {
+  background-image: url("../assets/img/letters/n.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.o {
+  background-image: url("../assets/img/letters/o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.p {
+  background-image: url("../assets/img/letters/p.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.q {
+  background-image: url("../assets/img/letters/q.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.r {
+  background-image: url("../assets/img/letters/r.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.s {
+  background-image: url("../assets/img/letters/s.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.t {
+  background-image: url("../assets/img/letters/t.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.u {
+  background-image: url("../assets/img/letters/u.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.v {
+  background-image: url("../assets/img/letters/v.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.w {
+  background-image: url("../assets/img/letters/w.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.x {
+  background-image: url("../assets/img/letters/x.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.y {
+  background-image: url("../assets/img/letters/y.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.z {
+  background-image: url("../assets/img/letters/z.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.animals {
+  background-image: url(https://st2.depositphotos.com/1967477/7688/v/950/depositphotos_76882337-stock-illustration-cartoon-collection-animal-in-the.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.numbers {
+  background-image: url(https://quizizz.com/_media/questions/28869393-7094-41a6-b920-38c68bec1ec9_90_90);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.letters {
+  background-image: url(https://st2.depositphotos.com/5509648/10066/i/950/depositphotos_100665554-stock-photo-mixed-colorful-letters.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  text-align: center;
+}
+
+footer {
+  font-size: 1rem;
+  font-family: "Handlee";
+  color: black;
+  height: 100px;
+  margin-top: 120px;
+}
+
+@media (max-width: 500px) {
+  h1 {
+    font-size: 3rem;
+  }
+  .btn2 {
+    outline: none;
+    border: 5px solid #000000;
+    font-size: 1rem;
+    font-family: "Handlee" cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #ffffff;
+    border-radius: 20px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+  }
+}
+/*# sourceMappingURL=styles.css.map */

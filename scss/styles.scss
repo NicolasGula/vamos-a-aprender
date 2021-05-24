@@ -1,0 +1,390 @@
+@import url("https://fonts.googleapis.com/css2?family=Handlee&display=swap");
+
+@mixin forImages {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.index {
+  background-image: url(https://image.freepik.com/free-vector/happy-kids-playing-cardboard-plane-with-sky-scenery-background_33070-4324.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  color: #000000;
+  font-family: "Handlee", cursive;
+  text-shadow: 3px 0 #ffffff;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #000000;
+  font-family: "Handlee", cursive;
+  text-shadow: 3px 0 #ffffff;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.btn {
+  outline: none;
+  border: 5px solid #000000;
+  font-size: 2rem;
+  font-family: "Handlee" cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #ffffff;
+  border-radius: 20px;
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+.btn2 {
+  outline: none;
+  border: 5px solid #000000;
+  font-size: 1.5rem;
+  font-family: "Handlee" cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #ffffff;
+  border-radius: 20px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+// Imagenes para los animales
+.abeja {
+  background-image: url("../assets/img/animals/abeja.jfif");
+  @include forImages();
+}
+
+.aguila {
+  background-image: url("../assets/img/animals/aguila.jpg");
+  @include forImages();
+}
+
+.burro {
+  background-image: url("../assets/img/animals/burro.jpg");
+  @include forImages();
+}
+
+.caballo {
+  background-image: url("../assets/img/animals/caballo.jpg");
+  @include forImages();
+}
+
+.cerdo {
+  background-image: url("../assets/img/animals/cerdo.jpg");
+  @include forImages();
+}
+
+.elefante {
+  background-image: url("../assets/img/animals/elefante.jpg");
+  @include forImages();
+}
+
+.gallina {
+  background-image: url("../assets/img/animals/gallina.jpg");
+  @include forImages();
+}
+
+.gallo {
+  background-image: url("../assets/img/animals/gallo.jpg");
+  @include forImages();
+}
+
+.gato {
+  background-image: url("../assets/img/animals/gato.jpg");
+  @include forImages();
+}
+
+.leon {
+  background-image: url("../assets/img/animals/leon.png");
+  @include forImages();
+}
+
+.lobo {
+  background-image: url("../assets/img/animals/lobo.jpg");
+  @include forImages();
+}
+
+.mono {
+  background-image: url("../assets/img/animals/mono.jpg");
+  @include forImages();
+}
+
+.oveja {
+  background-image: url("../assets/img/animals/oveja.jpg");
+  @include forImages();
+}
+
+.pato {
+  background-image: url("../assets/img/animals/Pato.jpg");
+  @include forImages();
+}
+
+.perro {
+  background-image: url("../assets/img/animals/perro.jpg");
+  @include forImages();
+}
+
+.pollito {
+  background-image: url("../assets/img/animals/pollito.jpg");
+  @include forImages();
+}
+
+.vaca {
+  background-image: url("../assets/img/animals/Vaca.jpg");
+  @include forImages();
+}
+
+// Imagenes para los numeross
+.cero {
+  background-image: url("../assets/img/numbers/cero.jpg");
+  @include forImages();
+}
+
+.uno {
+  background-image: url("../assets/img/numbers/uno.jpg");
+  @include forImages();
+}
+
+.dos {
+  background-image: url("../assets/img/numbers/dos.jpg");
+  @include forImages();
+}
+
+.tres {
+  background-image: url("../assets/img/numbers/tres.jpg");
+  @include forImages();
+}
+
+.cuatro {
+  background-image: url("../assets/img/numbers/cuatro.jpg");
+  @include forImages();
+}
+
+.cinco {
+  background-image: url("../assets/img/numbers/cinco.jpg");
+  @include forImages();
+}
+
+.seis {
+  background-image: url("../assets/img/numbers/seis.jpg");
+  @include forImages();
+}
+
+.siete {
+  background-image: url("../assets/img/numbers/siete.jpg");
+  @include forImages();
+}
+
+.ocho {
+  background-image: url("../assets/img/numbers/ocho.jpg");
+  @include forImages();
+}
+
+.nueve {
+  background-image: url("../assets/img/numbers/nueve.jpg");
+  @include forImages();
+}
+
+// Imagenes para las letras
+.a {
+  background-image: url("../assets/img/letters/a.jpg");
+  @include forImages();
+}
+
+.b {
+  background-image: url("../assets/img/letters/b.jpg");
+  @include forImages();
+}
+
+.c {
+  background-image: url("../assets/img/letters/c.jpg");
+  @include forImages();
+}
+
+.d {
+  background-image: url("../assets/img/letters/d.jpg");
+  @include forImages();
+}
+
+.e {
+  background-image: url("../assets/img/letters/e.jpg");
+  @include forImages();
+}
+
+.f {
+  background-image: url("../assets/img/letters/f.jpg");
+  @include forImages();
+}
+
+.g {
+  background-image: url("../assets/img/letters/g.jpg");
+  @include forImages();
+}
+
+.h {
+  background-image: url("../assets/img/letters/h.jpg");
+  @include forImages();
+}
+
+.i {
+  background-image: url("../assets/img/letters/i.jpg");
+  @include forImages();
+}
+
+.j {
+  background-image: url("../assets/img/letters/j.jpg");
+  @include forImages();
+}
+
+.k {
+  background-image: url("../assets/img/letters/k.jpg");
+  @include forImages();
+}
+
+.l {
+  background-image: url("../assets/img/letters/l.jpg");
+  @include forImages();
+}
+
+.m {
+  background-image: url("../assets/img/letters/m.jpg");
+  @include forImages();
+}
+
+.n {
+  background-image: url("../assets/img/letters/n.jpg");
+  @include forImages();
+}
+
+.o {
+  background-image: url("../assets/img/letters/o.jpg");
+  @include forImages();
+}
+
+.p {
+  background-image: url("../assets/img/letters/p.jpg");
+  @include forImages();
+}
+
+.q {
+  background-image: url("../assets/img/letters/q.jpg");
+  @include forImages();
+}
+
+.r {
+  background-image: url("../assets/img/letters/r.jpg");
+  @include forImages();
+}
+
+.s {
+  background-image: url("../assets/img/letters/s.jpg");
+  @include forImages();
+}
+
+.t {
+  background-image: url("../assets/img/letters/t.jpg");
+  @include forImages();
+}
+
+.u {
+  background-image: url("../assets/img/letters/u.jpg");
+  @include forImages();
+}
+
+.v {
+  background-image: url("../assets/img/letters/v.jpg");
+  @include forImages();
+}
+
+.w {
+  background-image: url("../assets/img/letters/w.jpg");
+  @include forImages();
+}
+
+.x {
+  background-image: url("../assets/img/letters/x.jpg");
+  @include forImages();
+}
+
+.y {
+  background-image: url("../assets/img/letters/y.jpg");
+  @include forImages();
+}
+
+.z {
+  background-image: url("../assets/img/letters/z.jpg");
+  @include forImages();
+}
+
+.animals {
+  background-image: url(https://st2.depositphotos.com/1967477/7688/v/950/depositphotos_76882337-stock-illustration-cartoon-collection-animal-in-the.jpg);
+  @include forImages();
+}
+
+.numbers {
+  background-image: url(https://quizizz.com/_media/questions/28869393-7094-41a6-b920-38c68bec1ec9_90_90);
+  @include forImages();
+}
+
+.letters {
+  background-image: url(https://st2.depositphotos.com/5509648/10066/i/950/depositphotos_100665554-stock-photo-mixed-colorful-letters.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  text-align: center;
+}
+
+footer {
+  font-size: 1rem;
+  font-family: "Handlee";
+  color: black;
+  height: 100px;
+  margin-top: 120px;
+}
+
+@media (max-width: 500px) {
+  h1 {
+    font-size: 3rem;
+  }
+  .btn2 {
+    outline: none;
+    border: 5px solid #000000;
+    font-size: 1rem;
+    font-family: "Handlee" cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #ffffff;
+    border-radius: 20px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+  }
+}
